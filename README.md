@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepshikha1211
+- 👋 Hi, I’m Deepshikha
 - 🌟 About Me
 🧠 Unraveling mysteries of Data Structures & Algorithms in Java.
 🌐 Exploring the vast universe of web technologies.
